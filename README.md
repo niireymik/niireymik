@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9be15d,100:00c853&height=120&section=header&fontSize=35&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9be15d,100:00c853&height=180&section=header&text=Yerin%20Kim%20🌿&fontSize=32&font=Pacifico&fontColor=ffffff" />
 </p>
+
 
 
 
